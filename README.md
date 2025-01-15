@@ -2,10 +2,10 @@ Hi, I'm Sanzhar 👋
 
 # Sanzhar Shakarim
 
-![Profile Picture](src/assets/pic.png)
+![Profile Picture](images/pic.png)
 
 **Project Engineer**  
-[Email Me](mailto:shakarim.sanjar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | [Telegram](https://t.me/Sanchozver)
+![Gmail](images/gmail.png)[Email Me](mailto:shakarim.sanjar@gmail.com) | ![Linkedin](images/linkedin.png)[LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | ![Telegram](images/telegram.png)[Telegram](https://t.me/Sanchozver)
 
 ---
 
