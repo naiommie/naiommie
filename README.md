@@ -6,9 +6,9 @@ Hi, I'm Sanzhar 👋
 
 **Project Engineer**  
 
-<img src="images/gmail.png" alt="gmail" style="width:5%;">[Email Me](mailto:shakarim.sanjar@gmail.com) | 
-<img src="images/linkedin.png" alt="linkedin" style="width:5%;">[LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | 
-<img src="images/telegram.png" alt="telegram" style="width:5%;">[Telegram](https://t.me/Sanchozver)
+<img src="images/gmail.png" alt="gmail" style="width:1%;">[Email Me](mailto:shakarim.sanjar@gmail.com) | 
+<img src="images/linkedin.png" alt="linkedin" style="width:1%;">[LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | 
+<img src="images/telegram.png" alt="telegram" style="width:1%;">[Telegram](https://t.me/Sanchozver)
 
 ---
 
