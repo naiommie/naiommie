@@ -49,6 +49,6 @@ I am passionate about leveraging technology and data-driven insights to drive in
   Pursuing an MS degree in Engineering Management
 
 
-<img src="images/gmail.png" alt="gmail" style="width:50%;">
-<img src="images/telegram.png" alt="telegram" style="width:50%;">
-<img src="images/linkedin.png" alt="linkedin" style="width:50%;">
+<img src="images/gmail.png" alt="gmail" style="width:5%;">
+<img src="images/telegram.png" alt="telegram" style="width:5%;">
+<img src="images/linkedin.png" alt="linkedin" style="width:5%;">
