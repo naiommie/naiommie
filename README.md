@@ -5,7 +5,10 @@ Hi, I'm Sanzhar 👋
 ![Profile Picture](images/pic.png)
 
 **Project Engineer**  
-![gmail](images/gmail.png)[Email Me](mailto:shakarim.sanjar@gmail.com) | ![linkedin](images/linkedin.png)[LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | ![telegram](images/telegram.png)[Telegram](https://t.me/Sanchozver)
+
+<img src="images/gmail.png" alt="gmail" style="width:5%;">[Email Me](mailto:shakarim.sanjar@gmail.com) | 
+<img src="images/linkedin.png" alt="linkedin" style="width:5%;">[LinkedIn](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) | 
+<img src="images/telegram.png" alt="telegram" style="width:5%;">[Telegram](https://t.me/Sanchozver)
 
 ---
 
@@ -49,6 +52,3 @@ I am passionate about leveraging technology and data-driven insights to drive in
   Pursuing an MS degree in Engineering Management
 
 
-<img src="images/gmail.png" alt="gmail" style="width:5%;">
-<img src="images/telegram.png" alt="telegram" style="width:5%;">
-<img src="images/linkedin.png" alt="linkedin" style="width:5%;">
