@@ -1,8 +1,8 @@
-Hi, I'm Sanzhar 👋
-
-# Sanzhar Shakarim
+# Sanzhar Shakarim  👋
 
 ![Profile Picture](images/pic.png)
+
+
 
 **Project Engineer**  
 
@@ -10,38 +10,27 @@ Hi, I'm Sanzhar 👋
 [<img src="images/linkedin.png" alt="linkedin" style="width:20px; vertical-align:middle;">](https://www.linkedin.com/in/sanzhar-shakarim-248497205/) |
 [<img src="images/telegram.png" alt="telegram" style="width:20px; vertical-align:middle;">](https://t.me/Sanchozver) 
 
----
 
-## About Me
+## Обо мне
 
-I am a Project Engineer with a strong background in engineering and project management. I have experience in various industries, including transportation, manufacturing, and infrastructure. My expertise lies in managing complex projects, ensuring timely delivery, and optimizing processes to improve efficiency.
+Я Project Manager с 3-х летним опытом в области управления проектами. У меня есть опыт работы в различных отраслях, включая транспорт, производство и инфраструктуру. Моя экспертиза заключается в управлении сложными проектами, обеспечении своевременной поставки и оптимизации процессов для повышения эффективности. Получив степень магистра в области управления инновационных проектов, я готов применить и поделиться своим опытом в ваш проект.
 
-I am passionate about leveraging technology and data-driven insights to drive innovation and solve complex challenges. I am a collaborative team player who thrives in dynamic environments, and I am committed to delivering high-quality results that exceed client expectations.
+Я увлечен использованием технологий и аналитических данных для стимулирования инноваций и решения сложных задач. Я командный игрок, который преуспевает в динамичных средах, и я стремлюсь предоставлять высококачественные результаты, которые превосходят ожидания клиентов.
 
----
 
-## Timeline
+## Опыт работы
 
-- **2019.02 - Astana, Kazakhstan**  
-  **HPAIR 2019**  
-  Organizing committee member for Harvard College Conference
-
-- **2022.01 - Astana, Kazakhstan**  
-  **Samruk Energo**  
-  Electrical Engineering Winter Intern
-
-- **2023.11 - Astana, Kazakhstan**  
-  **Nazarbayev University**  
-  Research Assistant at Dr. Gulsim Kulsharova Lab  
-  Published my [paper](https://ieeexplore.ieee.org/document/9881355) at the SAS 2022 Conference held in Sundsvall, Sweden
-
-- **2023.06 - Astana, Kazakhstan**  
-  **Nazarbayev University**  
-  BSc in Electrical and Computer Engineering
-
-- **2023.09 - Astana, Kazakhstan**  
-  **International Bolashak Scholarship**  
-  Received full scholarship from the President of the Republic of Kazakhstan
+- **2024.04 - 2024.10 - Wabtec Corporation, США** - *Project Manager*  
+Разработка систем навигации и дистанционного управления для поездов нового поколения с водородными топливными элементами
+Управление командой разработки в роли Project Manager.
+  - Работал по методологий Scrum, Agile
+  - Создал интерактивный график ключевых этапов (milestones) с доступом для всей команды
+  - Составил дорожную карту проекта с помощью Svelte для локального просмотра
+  - Составлял повестку дня для всех митингов в Outlook
+  - Проводил 1-1 встречи с внешними разработчиками для контроля всех этапов процесса
+  - Управлял рисками на всех этапах проекта
+  - Проводил митинги для слияния бранчей с помощью Git Extensions
+  - Разработал автоматизированную функцию для поиска тегов проекта на GitLab-е с помощью Python и Rest API. Перенес эту фукнцию на веб нашего отдела для быстрого доступа использую Svelte
 
 - **2024.08 - Erie, PA**  
   **Wabtec Corporation**  
